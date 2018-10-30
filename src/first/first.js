@@ -1,0 +1,1 @@
+console.log(`I'm a in webpack index.js i.e entry point`);
